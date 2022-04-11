@@ -1,0 +1,5 @@
+C:\Users\andre\Downloads\tema2inicial_VS19x64\x64\Debug\Pang.exe
+C:\Users\andre\Documents\Infor_Andres\Practica 1\x64\Debug\Pang.exe
+C:\Users\andre\Documents\Infor_Andres\Practica 1 - copia\x64\Debug\Pang.exe
+C:\Users\andre\Documents\Infor_Andres\Practica2\x64\Debug\Pang.exe
+C:\Users\andre\Documents\Infor_Andres\Ajedrez1\x64\Debug\Pang.exe
