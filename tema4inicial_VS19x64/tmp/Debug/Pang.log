@@ -1,0 +1,8 @@
+﻿  Casilla.cpp
+C:\Users\Laura\Desktop\tema4inicial_VS19x64\src\Casilla.cpp(13,30): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Laura\Desktop\tema4inicial_VS19x64\src\Casilla.cpp(14,27): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  Mundo.cpp
+  Pang.cpp
+  Tablero.cpp
+  Generando código...
+  Pang.vcxproj -> C:\Users\Laura\Desktop\tema4inicial_VS19x64\bin\Pang.exe
