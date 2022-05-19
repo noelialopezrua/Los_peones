@@ -1,0 +1,8 @@
+﻿  Reina.cpp
+C:\Users\Usuario\Desktop\ESTE SI - copia - copia\10.05(Esto_no_furula)\src\Reina.cpp(70,20): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Usuario\Desktop\ESTE SI - copia - copia\10.05(Esto_no_furula)\src\Reina.cpp(71,17): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Usuario\Desktop\ESTE SI - copia - copia\10.05(Esto_no_furula)\src\Reina.cpp(92,20): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Usuario\Desktop\ESTE SI - copia - copia\10.05(Esto_no_furula)\src\Reina.cpp(93,17): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Usuario\Desktop\ESTE SI - copia - copia\10.05(Esto_no_furula)\src\Reina.cpp(114,20): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Usuario\Desktop\ESTE SI - copia - copia\10.05(Esto_no_furula)\src\Reina.cpp(115,17): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+  Pang.vcxproj -> C:\Users\Usuario\Desktop\ESTE SI - copia - copia\10.05(Esto_no_furula)\bin\Pang.exe
