@@ -1,0 +1,88 @@
+﻿  GestorMovimiento.cpp
+  Mundo.cpp
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(60,24): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(61,24): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(62,25): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(63,25): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(76,26): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(77,26): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(78,27): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(79,27): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(107,25): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(108,25): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(117,22): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(118,22): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(126,24): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(127,24): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(128,25): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(129,25): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(149,24): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(150,24): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(151,25): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(152,25): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(165,26): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(166,26): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(167,27): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(168,27): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(197,24): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(198,24): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(207,22): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(208,22): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(216,24): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(217,24): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(218,25): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(219,25): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(47,6): warning C4101: 'numero': variable local sin referencia
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(264,26): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(265,26): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(266,27): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(267,27): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(282,29): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(283,26): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(305,29): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(306,26): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(347,24): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(349,25): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(372,29): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(373,26): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(387,23): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(388,23): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(404,27): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(405,24): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(419,26): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(420,26): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(421,27): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(422,27): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(437,29): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(438,26): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(460,29): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(461,26): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(484,26): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(485,26): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(486,27): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(487,27): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(502,29): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(503,26): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(525,29): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(526,26): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(567,25): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(569,25): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(587,29): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(588,26): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(602,23): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(603,23): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(618,27): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(619,24): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(632,26): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(633,26): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(634,27): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(635,27): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(650,29): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(651,26): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(673,29): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(674,26): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(764,37): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Usuario\Desktop\GESTOR1 - copia\src\Mundo.cpp(766,38): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  Pang.cpp
+  Generando código...
+  Pang.vcxproj -> C:\Users\Usuario\Desktop\GESTOR1 - copia\bin\Pang.exe
