@@ -1,0 +1,3 @@
+﻿ListaPiezas.obj : error LNK2019: símbolo externo "public: virtual __cdecl ListaPiezas::~ListaPiezas(void)" (??1ListaPiezas@@UEAA@XZ) sin resolver al que se hace referencia en la función "public: virtual void * __cdecl ListaPiezas::`scalar deleting destructor'(unsigned int)" (??_GListaPiezas@@UEAAPEAXI@Z)
+Pang.obj : error LNK2001: símbolo externo "public: virtual __cdecl ListaPiezas::~ListaPiezas(void)" (??1ListaPiezas@@UEAA@XZ) sin resolver
+C:\Users\Laura\Desktop\AjedrezTablero\bin\Pang.exe : fatal error LNK1120: 1 externos sin resolver
