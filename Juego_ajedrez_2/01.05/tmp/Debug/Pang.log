@@ -1,0 +1,12 @@
+﻿  Mundo.cpp
+C:\Users\Laura\Desktop\AjedrezTablero\src\Mundo.cpp(35,33): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Laura\Desktop\AjedrezTablero\src\Mundo.cpp(37,37): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Laura\Desktop\AjedrezTablero\src\Mundo.cpp(39,37): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Laura\Desktop\AjedrezTablero\src\Mundo.cpp(41,37): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Laura\Desktop\AjedrezTablero\src\Mundo.cpp(46,37): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Laura\Desktop\AjedrezTablero\src\Mundo.cpp(48,37): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Laura\Desktop\AjedrezTablero\src\Mundo.cpp(50,37): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Laura\Desktop\AjedrezTablero\src\Mundo.cpp(52,37): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  Pang.cpp
+  Generando código...
+  Pang.vcxproj -> C:\Users\Laura\Desktop\AjedrezTablero\bin\Pang.exe
