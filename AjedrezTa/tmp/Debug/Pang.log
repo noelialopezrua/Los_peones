@@ -1,0 +1,4 @@
+﻿  Casilla.cpp
+C:\Users\andre\Documents\Infor_Andres\AjedrezTablero\src\Casilla.cpp(16,23): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\andre\Documents\Infor_Andres\AjedrezTablero\src\Casilla.cpp(17,20): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  Pang.vcxproj -> C:\Users\andre\Documents\Infor_Andres\AjedrezTablero\bin\Pang.exe
