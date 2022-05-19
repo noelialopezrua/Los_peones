@@ -1,0 +1,4 @@
+﻿  Mundo.cpp
+C:\Users\Usuario\Desktop\ESTE SI\10.05(Esto_no_furula)\src\Mundo.cpp(148,37): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Usuario\Desktop\ESTE SI\10.05(Esto_no_furula)\src\Mundo.cpp(150,38): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  Pang.vcxproj -> C:\Users\Usuario\Desktop\ESTE SI\10.05(Esto_no_furula)\bin\Pang.exe
