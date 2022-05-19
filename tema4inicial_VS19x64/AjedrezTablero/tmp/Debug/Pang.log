@@ -1,0 +1,3 @@
+﻿  Torre.cpp
+C:\Users\Laura\Desktop\AjedrezTablero\src\Torre.cpp(7,13): warning C4305: '=': truncamiento de 'double' a 'float'
+  Pang.vcxproj -> C:\Users\Laura\Desktop\AjedrezTablero\bin\Pang.exe
