@@ -1,0 +1,13 @@
+﻿  Mundo.cpp
+C:\Users\Usuario\Desktop\10.05(Esto sigue sin funcionar)\10.05(Esto_no_furula)\src\Mundo.cpp(57,25): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\10.05(Esto sigue sin funcionar)\10.05(Esto_no_furula)\src\Mundo.cpp(58,25): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\10.05(Esto sigue sin funcionar)\10.05(Esto_no_furula)\src\Mundo.cpp(59,26): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\10.05(Esto sigue sin funcionar)\10.05(Esto_no_furula)\src\Mundo.cpp(60,26): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\10.05(Esto sigue sin funcionar)\10.05(Esto_no_furula)\src\Mundo.cpp(73,27): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\10.05(Esto sigue sin funcionar)\10.05(Esto_no_furula)\src\Mundo.cpp(74,27): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\10.05(Esto sigue sin funcionar)\10.05(Esto_no_furula)\src\Mundo.cpp(75,28): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\10.05(Esto sigue sin funcionar)\10.05(Esto_no_furula)\src\Mundo.cpp(76,28): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\10.05(Esto sigue sin funcionar)\10.05(Esto_no_furula)\src\Mundo.cpp(47,7): warning C4101: 'numero': variable local sin referencia
+C:\Users\Usuario\Desktop\10.05(Esto sigue sin funcionar)\10.05(Esto_no_furula)\src\Mundo.cpp(202,37): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Usuario\Desktop\10.05(Esto sigue sin funcionar)\10.05(Esto_no_furula)\src\Mundo.cpp(204,38): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  Pang.vcxproj -> C:\Users\Usuario\Desktop\10.05(Esto sigue sin funcionar)\10.05(Esto_no_furula)\bin\Pang.exe
