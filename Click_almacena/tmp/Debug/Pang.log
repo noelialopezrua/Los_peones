@@ -1,0 +1,37 @@
+﻿  Alfil.cpp
+  Caballo.cpp
+  Casilla.cpp
+C:\Users\Laura\Desktop\01.05\src\Casilla.cpp(15,15): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Laura\Desktop\01.05\src\Casilla.cpp(16,15): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  ListaPiezas.cpp
+  Mundo.cpp
+C:\Users\Laura\Desktop\01.05\src\Mundo.cpp(39,37): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Laura\Desktop\01.05\src\Mundo.cpp(41,37): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Laura\Desktop\01.05\src\Mundo.cpp(43,37): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Laura\Desktop\01.05\src\Mundo.cpp(45,37): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Laura\Desktop\01.05\src\Mundo.cpp(60,41): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Laura\Desktop\01.05\src\Mundo.cpp(62,41): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Laura\Desktop\01.05\src\Mundo.cpp(64,41): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Laura\Desktop\01.05\src\Mundo.cpp(66,41): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Laura\Desktop\01.05\src\Mundo.cpp(70,35): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Laura\Desktop\01.05\src\Mundo.cpp(72,35): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Laura\Desktop\01.05\src\Mundo.cpp(76,38): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Laura\Desktop\01.05\src\Mundo.cpp(78,38): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Laura\Desktop\01.05\src\Mundo.cpp(83,37): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Laura\Desktop\01.05\src\Mundo.cpp(85,38): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  Pang.cpp
+  Peon.cpp
+  Pieza.cpp
+C:\Users\Laura\Desktop\01.05\src\Pieza.cpp(7,13): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Laura\Desktop\01.05\src\Pieza.cpp(40,9): warning C4244: '=': conversión de 'float' a 'unsigned char'; posible pérdida de datos
+C:\Users\Laura\Desktop\01.05\src\Pieza.cpp(41,10): warning C4244: '=': conversión de 'float' a 'unsigned char'; posible pérdida de datos
+C:\Users\Laura\Desktop\01.05\src\Pieza.cpp(42,9): warning C4244: '=': conversión de 'float' a 'unsigned char'; posible pérdida de datos
+  Reina.cpp
+  Rey.cpp
+  Tablero.cpp
+C:\Users\Laura\Desktop\01.05\src\Tablero.cpp(95,16): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Laura\Desktop\01.05\src\Tablero.cpp(96,19): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+  Torre.cpp
+C:\Users\Laura\Desktop\01.05\src\Torre.cpp(7,13): warning C4305: '=': truncamiento de 'double' a 'float'
+  Generando código...
+  Pang.vcxproj -> C:\Users\Laura\Desktop\01.05\bin\Pang.exe
