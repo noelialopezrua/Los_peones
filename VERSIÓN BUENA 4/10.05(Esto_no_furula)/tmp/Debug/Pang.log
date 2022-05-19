@@ -1,0 +1,41 @@
+﻿  Mundo.cpp
+C:\Users\Usuario\Desktop\ESTE SI - copia - copia\10.05(Esto_no_furula)\src\Mundo.cpp(60,24): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\ESTE SI - copia - copia\10.05(Esto_no_furula)\src\Mundo.cpp(61,24): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\ESTE SI - copia - copia\10.05(Esto_no_furula)\src\Mundo.cpp(62,25): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\ESTE SI - copia - copia\10.05(Esto_no_furula)\src\Mundo.cpp(63,25): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\ESTE SI - copia - copia\10.05(Esto_no_furula)\src\Mundo.cpp(76,26): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\ESTE SI - copia - copia\10.05(Esto_no_furula)\src\Mundo.cpp(77,26): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\ESTE SI - copia - copia\10.05(Esto_no_furula)\src\Mundo.cpp(78,27): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\ESTE SI - copia - copia\10.05(Esto_no_furula)\src\Mundo.cpp(79,27): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\ESTE SI - copia - copia\10.05(Esto_no_furula)\src\Mundo.cpp(107,25): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\ESTE SI - copia - copia\10.05(Esto_no_furula)\src\Mundo.cpp(108,25): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\ESTE SI - copia - copia\10.05(Esto_no_furula)\src\Mundo.cpp(117,22): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\ESTE SI - copia - copia\10.05(Esto_no_furula)\src\Mundo.cpp(118,22): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\ESTE SI - copia - copia\10.05(Esto_no_furula)\src\Mundo.cpp(126,24): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\ESTE SI - copia - copia\10.05(Esto_no_furula)\src\Mundo.cpp(127,24): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\ESTE SI - copia - copia\10.05(Esto_no_furula)\src\Mundo.cpp(128,25): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\ESTE SI - copia - copia\10.05(Esto_no_furula)\src\Mundo.cpp(129,25): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\ESTE SI - copia - copia\10.05(Esto_no_furula)\src\Mundo.cpp(150,24): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\ESTE SI - copia - copia\10.05(Esto_no_furula)\src\Mundo.cpp(151,24): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\ESTE SI - copia - copia\10.05(Esto_no_furula)\src\Mundo.cpp(152,25): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\ESTE SI - copia - copia\10.05(Esto_no_furula)\src\Mundo.cpp(153,25): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\ESTE SI - copia - copia\10.05(Esto_no_furula)\src\Mundo.cpp(166,26): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\ESTE SI - copia - copia\10.05(Esto_no_furula)\src\Mundo.cpp(167,26): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\ESTE SI - copia - copia\10.05(Esto_no_furula)\src\Mundo.cpp(168,27): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\ESTE SI - copia - copia\10.05(Esto_no_furula)\src\Mundo.cpp(169,27): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\ESTE SI - copia - copia\10.05(Esto_no_furula)\src\Mundo.cpp(197,24): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\ESTE SI - copia - copia\10.05(Esto_no_furula)\src\Mundo.cpp(198,24): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\ESTE SI - copia - copia\10.05(Esto_no_furula)\src\Mundo.cpp(207,22): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\ESTE SI - copia - copia\10.05(Esto_no_furula)\src\Mundo.cpp(208,22): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\ESTE SI - copia - copia\10.05(Esto_no_furula)\src\Mundo.cpp(216,24): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\ESTE SI - copia - copia\10.05(Esto_no_furula)\src\Mundo.cpp(217,24): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\ESTE SI - copia - copia\10.05(Esto_no_furula)\src\Mundo.cpp(218,25): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\ESTE SI - copia - copia\10.05(Esto_no_furula)\src\Mundo.cpp(219,25): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\ESTE SI - copia - copia\10.05(Esto_no_furula)\src\Mundo.cpp(47,6): warning C4101: 'numero': variable local sin referencia
+C:\Users\Usuario\Desktop\ESTE SI - copia - copia\10.05(Esto_no_furula)\src\Mundo.cpp(301,25): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\ESTE SI - copia - copia\10.05(Esto_no_furula)\src\Mundo.cpp(303,25): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\ESTE SI - copia - copia\10.05(Esto_no_furula)\src\Mundo.cpp(325,23): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\ESTE SI - copia - copia\10.05(Esto_no_furula)\src\Mundo.cpp(326,23): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\ESTE SI - copia - copia\10.05(Esto_no_furula)\src\Mundo.cpp(454,37): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Usuario\Desktop\ESTE SI - copia - copia\10.05(Esto_no_furula)\src\Mundo.cpp(456,38): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  Pang.vcxproj -> C:\Users\Usuario\Desktop\ESTE SI - copia - copia\10.05(Esto_no_furula)\bin\Pang.exe
