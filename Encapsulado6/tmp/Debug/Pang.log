@@ -1,0 +1,10 @@
+﻿  Peon.cpp
+C:\Users\andre\Documents\Infor_Andres\Encapsulado6\src\Peon.cpp(30,27): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\andre\Documents\Infor_Andres\Encapsulado6\src\Peon.cpp(30,20): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\andre\Documents\Infor_Andres\Encapsulado6\src\Peon.cpp(31,27): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\andre\Documents\Infor_Andres\Encapsulado6\src\Peon.cpp(31,18): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\andre\Documents\Infor_Andres\Encapsulado6\src\Peon.cpp(35,28): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\andre\Documents\Infor_Andres\Encapsulado6\src\Peon.cpp(35,21): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\andre\Documents\Infor_Andres\Encapsulado6\src\Peon.cpp(36,28): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\andre\Documents\Infor_Andres\Encapsulado6\src\Peon.cpp(36,19): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Pang.vcxproj -> C:\Users\andre\Documents\Infor_Andres\Encapsulado6\bin\Pang.exe
